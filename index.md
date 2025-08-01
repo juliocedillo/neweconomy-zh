@@ -32,11 +32,11 @@ permalink: /
 <!-- HTML for the Carousel -->
 <div class="carousel">
   <div class="carousel-container">
-    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q3.png" alt="Image 1">
-    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q2.png" alt="Image 2">
-    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q1.png" alt="Image 3">
-    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q4.png" alt="Image 4">
-    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q5.png" alt="Image 5">
+    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q3_zh.png" alt="Image 1">
+    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q2_zh.png" alt="Image 2">
+    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q1_zh.png" alt="Image 3">
+    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q4_zh.png" alt="Image 4">
+    <img class="carousel-slide" src="https://juliocedillo.github.io/neweconomy/assets/images/q5_zh.png" alt="Image 5">
   </div>
   <button class="carousel-prev" onclick="moveSlide(-1)">&#10094;</button>
   <button class="carousel-next" onclick="moveSlide(1)">&#10095;</button>
