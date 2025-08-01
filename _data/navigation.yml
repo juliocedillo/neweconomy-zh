@@ -1,0 +1,8 @@
+- title: 首页
+  url: /
+- title: 数据
+  url: /data
+- title: 团队
+  url: people
+- title: 接触
+  url: /contact
